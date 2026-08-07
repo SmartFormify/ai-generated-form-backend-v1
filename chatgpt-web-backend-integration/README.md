@@ -28,7 +28,7 @@ Without connecting a message receiver, every submission is lost.
 >
 > Your contact form cannot receive visitor messages.
 
-![Form Submission Failing](images/form-error.png)
+![Form Submission Failing](assets/form-error.png)
 
 ---
 
@@ -51,7 +51,7 @@ Once connected:
 >
 > Your contact form works exactly as visitors expect.
 
-![Form Working Successfully](images/form-success.png)
+![Form Working Successfully](assets/form-success.png)
 
 ---
 
@@ -65,7 +65,7 @@ Create your free account.
 
 After signing in, you'll see your main dashboard.
 
-![Smartformify Signup Page](images/signup.png)
+![Smartformify Signup Page](assets/signup.png)
 
 ---
 
@@ -79,11 +79,11 @@ From your dashboard:
 4. Save it
 5. Copy the **Endpoint URL**
 
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](assets/dashboard.png)
 
 This link tells your website where new messages should be delivered.
 
-![Getting Connection Link](images/endpoint-url.png)
+![Getting Connection Link](assets/endpoint-url.png)
 
 > 📋 **Tip**
 >
@@ -118,7 +118,7 @@ If you created your website with Codex, you can simply ask it to make the change
 Copy and paste this prompt into Codex.
 
 ```
-![AI Assistant Auto-Connection](images/ai-prompt.png)
+![AI Assistant Auto-Connection](assets/ai-prompt.png)
 
 ```
 
