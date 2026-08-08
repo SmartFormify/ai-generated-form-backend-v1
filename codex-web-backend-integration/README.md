@@ -24,6 +24,8 @@ Because the website has nowhere to send or save the message.
 
 Without connecting a message receiver, every submission is lost.
 
+![Website Before Connecting SmartFormify](assets/website.png)
+
 > ⚠️ **Before**
 >
 > Your contact form cannot receive visitor messages.
