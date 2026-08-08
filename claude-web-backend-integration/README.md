@@ -1,4 +1,4 @@
-# Connect Your Codex AI-Built Website Forms to Smartformify
+# Connect Your Claude AI-Built Website Forms to Smartformify
 
 > Turn a contact or inquiry form into a working form in just a few minutes.
 
