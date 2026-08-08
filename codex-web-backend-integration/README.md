@@ -1,79 +1,74 @@
-# Build Your Website by Using Codex and Connect Your Website Forms with Smartformify
+# Build Your Website with Codex + Smartformify
 
-> **A simple guide for websites created with Codex**
->
-> If your contact form shows an error after your website is created, don't worry. This is normal. It only means your website doesn't yet have a place to receive visitor messages.
->
-> In this guide, you'll connect your form to **Smartformify** so every message is received and stored safely.
+> **A simple, beginner-friendly guide for connecting an AI-generated website form to Smartformify.**
 
----
+If your contact form shows an error after creating your website with Codex, don't worry. The form simply needs a place to send and store visitor messages.
 
-# 📖 Broken vs. Fixed
-
-## ❌ Part 1: The Initial Problem
-
-Your website looks great.
-
-Visitors can fill out your contact form.
-
-But when they click **Submit**, an error appears or nothing happens.
-
-Why?
-
-Because the website has nowhere to send or save the message.
-
-Without connecting a message receiver, every submission is lost.
-
-![Website Before Connecting SmartFormify](assets/website.png)
-
-> ⚠️ **Before**
->
-> Your contact form cannot receive visitor messages.
-
-![Form Submission Failing](assets/form-error.png)
+This guide walks you through connecting your website form to **Smartformify** so submissions can be received and managed from one place.
 
 ---
 
-## ✅ Part 2: The Solution
+## 📖 Before vs. After
 
-### Connect Smartformify
+### ❌ Before: The Form Doesn't Work
 
-Think of **Smartformify** as your website's automated mailbox.
+Your website may look complete, but visitors can still experience problems when they submit the contact form.
 
-Instead of losing messages, every form submission is delivered to one organized inbox.
+When someone clicks **Submit**, the form may:
+
+- Show an error
+- Do nothing
+- Fail to send the message
+- Lose the visitor's information
+
+This happens because the form has not been connected to a destination yet.
+
+[![Website Before Connecting Smartformify](./assets/website.png)](./assets/website.png)
+
+> ⚠️ **Before Setup**
+>
+> The contact form is not connected, so visitor messages cannot be received.
+
+[![Form Submission Error](./assets/form-error.png)](./assets/form-error.png)
+
+---
+
+### ✅ After: The Form Works
+
+Connect your website form to **Smartformify** and your visitors can submit their messages successfully.
 
 Once connected:
 
 - ✅ Forms submit successfully
-- ✅ Messages are stored safely
-- ✅ Everything stays organized
-- ✅ You can read every visitor message anytime
+- ✅ Messages are received
+- ✅ Submissions stay organized
+- ✅ You can view visitor messages anytime
 
-> 💡 **After**
+[![Form Submission Success](./assets/form-success.png)](./assets/form-success.png)
+
+> 💡 **After Setup**
 >
-> Your contact form works exactly as visitors expect.
-
-![Form Working Successfully](assets/form-success.png)
+> Your contact form is connected and ready to receive visitor messages.
 
 ---
 
-# 🚀 Part 3: Step-by-Step Setup
+# 🚀 Step-by-Step Setup
 
-## **Step 1 — Create Your Smartformify Account**
+## Step 1 — Create Your Smartformify Account
 
-Create your free account.
+Create your free Smartformify account to get started.
 
-👉 [Smartformify Sign Up](https://www.smartformify.com/signup)
+**[👉 Sign Up for Smartformify](https://www.smartformify.com/signup)**
 
-After signing in, you'll see your main dashboard.
+After signing in, you'll have access to your Smartformify dashboard.
 
-![Smartformify Signup Page](assets/signup.png)
+[![Smartformify Signup Page](./assets/signup.png)](./assets/signup.png)
 
 ---
 
-## **Step 2 — Copy Your Connection Link**
+## Step 2 — Create an Endpoint
 
-From your dashboard:
+From your Smartformify dashboard:
 
 1. Open your **Smartformify Dashboard**
 2. Click **Create an Endpoint**
@@ -81,84 +76,77 @@ From your dashboard:
 4. Save it
 5. Copy the **Endpoint URL**
 
-![Dashboard Overview](assets/dashboard.png)
+[![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
 
-This link tells your website where new messages should be delivered.
+The Endpoint URL is the connection link your website uses to send visitor messages to Smartformify.
 
-![Getting Connection Link](assets/endpoint-url.png)
+[![Smartformify Endpoint URL](./assets/endpoint-url.png)](./assets/endpoint-url.png)
 
 > 📋 **Tip**
 >
-> Every form has its own unique connection link.
+> Each form can use its own unique connection link.
 
 ---
 
-## **Step 3 — Connect Your Website**
+## Step 3 — Connect Your Website Form
 
-Choose whichever method is easier.
+Choose the method that works best for you.
 
----
+### Option A — Connect It Yourself
 
-### Method A — Paste the Connection Link Yourself
+Open the contact form in your website and replace its existing connection link with the **Endpoint URL** you copied from Smartformify.
 
-Open the contact form in your website.
+Save your changes and test the form.
 
-Replace the existing connection link with the one you copied from Smartformify.
-
-Save your changes.
-
-That's it.
-
-> ✅ Your contact form is now connected.
+> ✅ **That's it!**
+>
+> Your contact form is now connected to Smartformify.
 
 ---
 
-### Method B — Let Codex Do It
+### Option B — Ask Codex to Connect It
 
-If you created your website with Codex, you can simply ask it to make the change for you.
+If you created the website with Codex, you can ask Codex to make the change for you.
 
-Copy and paste this prompt into Codex.
+Copy the prompt below and paste it into Codex.
 
-```
-![AI Assistant Auto-Connection](assets/ai-prompt.png)
-
-```
+[![Connect Website Form Using Codex](./assets/ai-prompt.png)](./assets/ai-prompt.png)
 
 After Codex finishes, save the changes and test your contact form.
 
 > 🤖 **Easy Option**
 >
-> If you're unsure where to paste the connection link, let Codex do it for you.
+> If you're not sure where to add the connection link, let Codex handle the change for you.
 
 ---
 
-# 📬 Part 4: Read Your Visitor Messages
+# 📬 View Your Visitor Messages
 
-Once your website is connected:
+Once your website form is connected:
 
-1. Open Smartformify.
-2. Go to your dashboard.
-3. Open your Inbox.
-4. Click any message to read it.
+1. Open Smartformify
+2. Go to your dashboard
+3. Open your inbox
+4. Select a message to read it
 
-![Responses Dashboard](assets/response-dashboard.png)
+[![Smartformify Responses Dashboard](./assets/response-dashboard.png)](./assets/response-dashboard.png)
 
-Every new form submission will appear automatically.
+New form submissions will appear automatically.
 
-> 📥 **Your Inbox**
+> 📥 **Your Messages, Organized**
 >
-> All visitor messages are collected in one place, making them easy to read and manage.
+> Keep visitor messages in one place so they're easy to read and manage.
 
 ---
 
-# 🎉 You're Done!
+# 🎉 You're All Set!
 
-Your website can now receive visitor messages.
+Your website is now ready to receive visitor messages.
 
-Whenever someone fills out your contact form:
+When someone submits your contact form:
 
-- ✅ The form submits successfully.
-- ✅ The message is delivered automatically.
-- ✅ You can read it from your Smartformify inbox.
+- ✅ The form submits successfully
+- ✅ The message is delivered automatically
+- ✅ You can view it from your Smartformify dashboard
 
-Your contact form is now ready for real visitors.
+**Your contact form is ready for real visitors.**
