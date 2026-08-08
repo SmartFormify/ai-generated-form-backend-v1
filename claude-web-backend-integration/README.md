@@ -1,161 +1,95 @@
-````markdown
-# Build Your Website by Using Claude and Connect Your Website Forms with Smartformify
+# Connect Your Codex AI-Built Website Forms to Smartformify
 
-> Turn your website's contact form into a working form in just a few minutes.
+> Turn a contact or inquiry form into a working form in just a few minutes.
 
----
+## Overview
 
-# Overview
+This website was created with the help of an AI assistant, such as Claude or Codex. Its design and pages are ready, but its contact form still needs a destination for visitor messages.
 
-This website was created with the help of an AI assistant (such as Codex).
+**Smartformify** provides that destination. Once connected, form submissions are received and stored in your Smartformify dashboard, where you can review and manage them.
 
-The website design and pages are already built, but the contact form (or inquiry form) needs to know **where to send visitor messages**.
+## Before and After
 
-That's where **Smartformify** helps.
+### Before setup: form error
 
-After connecting your website to Smartformify, every form submission is safely received and stored in your Smartformify dashboard, where you can view and manage all your messages.
+Before the form is connected, clicking **Submit** may show an error, do nothing, or fail to send the visitor's message.
 
----
+[![Form submission error](./assets/form-error.jpg)](./assets/form-error.jpg)
 
-# Before vs. After
+### After setup: successful submission
 
-## ❌ Before Setup (Form Error)
+Once connected to Smartformify, visitors can submit messages and see a confirmation. Each submission is saved in your Smartformify dashboard.
 
-When you first open your AI-generated website, the contact form usually **does not work**.
+[![Form submission success](./assets/form-success.png)](./assets/form-success.png)
 
-When someone clicks **Submit**, the form may:
+## Step-by-Step Setup Guide
 
-- Show an error
-- Do nothing
-- Fail to send the message
-- Lose the visitor's information
+### Step 1: Create a free Smartformify account
 
-This happens because the form hasn't been connected to a destination yet.
+[Create your Smartformify account](https://www.smartformify.com/signup)
 
-![Form Submission Error](assets/form-error.png)
+After signing up, you will have access to your dashboard, where your endpoints and responses are managed.
 
----
+[![Smartformify signup page](./assets/signup.png)](./assets/signup.png)
 
-## ✅ After Setup (Success)
-
-Once your form is connected to **Smartformify**, every submission works instantly.
-
-Visitors can successfully send messages, and you'll see a confirmation after they submit the form.
-
-Every message is automatically saved in your Smartformify dashboard.
-
-![Form Submission Success](assets/form-success.png)
-
----
-
-# Step-by-Step Setup Guide
-
-## Step 1 — Create a Free Smartformify Account
-
-Start by creating your free Smartformify account.
-
-👉 **Sign Up Here**
-
-[Smartformify Sign Up](https://www.smartformify.com/signup)
-
-After signing up, you'll have access to your personal dashboard where all your forms and responses are managed.
-
-![Smartformify Signup Page](assets/signup.png)
-
----
-
-## Step 2 — Create a Form & Copy Your Endpoint URL
+### Step 2: Create an endpoint and copy its URL
 
 After logging in:
 
-1. Open your **Smartformify Dashboard**
-2. Click **Create an Endpoint**
-3. Give your endpoint a name
-4. Save it
-5. Copy the **Endpoint URL**
+1. Open your **Smartformify Dashboard**.
+2. Select **Create an Endpoint**.
+3. Give the endpoint a name.
+4. Save it.
+5. Copy the **Endpoint URL**.
 
-The Endpoint URL is the special address your website uses to send visitor messages.
+The Endpoint URL is the address your website uses to send visitor messages.
 
-### Dashboard
+#### Dashboard
 
-![Smartformify Dashboard](assets/dashboard.png)
+[![Smartformify dashboard](./assets/dashboard.png)](./assets/dashboard.png)
 
-### Endpoint URL
+#### Endpoint URL
 
-![Endpoint Section](assets/endpoint-url.png)
+[![Endpoint URL section](./assets/endpoint-url.png)](./assets/endpoint-url.png)
 
----
+### Step 3: Connect your website form
 
-## Step 3 — Connect Your Website Form
+Choose the option that feels most comfortable for you.
 
-Choose whichever method is easiest for you.
+#### Option A: Connect manually
 
----
-
-# Option A — Manual Connection
-
-If you're comfortable making a small edit to your website, simply replace your form's `action` value with your Smartformify Endpoint URL.
-
-Example:
+Replace your form's `action` value with the Smartformify Endpoint URL you copied:
 
 ```html
 <form action="YOUR_SMARTFORMIFY_ENDPOINT_URL" method="POST">
 ```
 
-Replace:
+Save your website after making the change.
 
-```
-YOUR_SMARTFORMIFY_ENDPOINT_URL
-```
+#### Option B: Connect using AI
 
-with the Endpoint URL you copied from your Smartformify dashboard.
+If you would rather not edit the code yourself, open your AI assistant and use the instructions shown below.
 
-Save your website, and you're done.
+##### AI prompt
 
----
+[![Instructions for connecting with an AI assistant](./assets/ai-prompt.png)](./assets/ai-prompt.png)
 
-# Option B — Connect Using AI
+Your AI assistant can then update the form connection for you.
 
-If you don't want to edit the code yourself, simply ask your AI assistant to do it for you.
+## View Your Form Responses
 
-Copy the prompt below and paste it into your Codex.
+Whenever someone submits your website form, Smartformify saves the message in your dashboard. You can use it to:
 
----
-
-## AI Prompt
-
-```
-![Connection via AI Prompt](assets/ai-prompt.png)
-
-```
-
-Your AI assistant will update the website automatically.
-
----
-
-# View Your Form Responses
-
-Whenever someone submits your website form, Smartformify saves the message for you.
-
-Simply log in to your Smartformify dashboard anytime to:
-
-- View all contact form submissions
+- View contact form submissions
 - Read visitor messages
 - Organize responses
 - Track new inquiries
-- Manage all your website forms in one place
+- Manage your website forms in one place
 
-Everything stays organized in one dashboard, making it easy to keep track of every message you receive.
+[![Responses dashboard](./assets/response-dashboard.png)](./assets/response-dashboard.png)
 
-![Responses Dashboard](assets/response-dashboard.png)
+## You're All Set
 
----
-
-# You're All Set 🎉
-
-Your website is now ready to receive visitor messages.
-
-Every form submission will be securely sent to Smartformify, where you can view and manage all responses from your dashboard.
+Your website is ready to receive visitor messages. Each form submission will be sent to Smartformify, where you can view and manage responses from your dashboard.
 
 Happy building!
-````
