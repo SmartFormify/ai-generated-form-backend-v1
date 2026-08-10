@@ -30,8 +30,6 @@ Once connected to Smartformify, visitors can submit messages and see a confirmat
 
 After signing up, you will have access to your dashboard, where your endpoints and responses are managed.
 
-[![Smartformify signup page](./assets/signup.png)](./assets/signup.png)
-
 ### Step 2: Create an endpoint and copy its URL
 
 After logging in:
@@ -78,13 +76,13 @@ Your AI assistant can then update the form connection for you.
 
 ## View Your Form Responses
 
-Whenever someone submits your website form, Smartformify saves the message in your dashboard. You can use it to:
+Whenever a visitor submits your website form, you will receive an email notification, and Smartformify will securely store the submission in your dashboard. From there, you can:
 
-- View contact form submissions
-- Read visitor messages
-- Organize responses
+- View all contact form submissions
+- Read and manage visitor messages
+- Organize and follow up on responses
 - Track new inquiries
-- Manage your website forms in one place
+- Manage all your website forms in one place
 
 [![Responses dashboard](./assets/response-dashboard.png)](./assets/response-dashboard.png)
 
