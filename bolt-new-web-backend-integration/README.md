@@ -143,7 +143,6 @@ Prompt the Bolt.new AI assistant to handle the code injection directly.
 Copy the prompt below and paste it into your Bolt.new chat session:
 
 ```text
-Connect the contact form on this page to Smartformify using the Endpoint URL: [INSERT_YOUR_ENDPOINT_URL_HERE]. Ensure the form handles submission states smoothly, shows a success message on response, and clears the input fields.
 
 ```
 
