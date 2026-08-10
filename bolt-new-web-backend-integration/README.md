@@ -144,6 +144,30 @@ Copy the prompt below and paste it into your Bolt.new chat session:
 
 ```text
 
+Update my website form so it sends responses to SmartFormify.
+The submit key is already included in the endpoint URL. Do not add an X-SmartFormify-Key header.
+Endpoint:
+https://api.smartformify.com/fe/sfy_live_59422128811c5ba3a4f3835be_cCrAn7Stt2MHpsWvLUk7FbVDsZ4IPL45Ta55sfNz_YQ
+Method:
+POST
+Headers:
+Content-Type: application/json
+Payload format:
+{
+"data": {
+"name": "user name",
+"email": "user email",
+"message": "user message",
+"phone_alt_50ur": ""
+}
+}
+Use the fields already on my form. Send every submitted field inside the data object.
+If the form is missing client-side validation, add appropriate validation before form submission.
+Add one hidden field named phone_alt_50ur and keep it empty. Do not validate this hidden field. Send it with every submission as a silent bot check.
+If the request fails, keep the visitor on the same form page and show the error message returned by SmartFormify.
+After SmartFormify saves the submission, read the JSON response. If data.redirect_url exists, redirect the visitor there. Otherwise, show data.thank_you_content on the same page.
+Do not hardcode the thank-you content into the website code. Use the value returned by SmartFormify so HTML, quotes, apostrophes, and special characters do not break the page.
+
 ```
 
 Once the AI completes the update, trigger a test submission to verify the network request.
