@@ -62,8 +62,6 @@ Create your free Smartformify account to get started.
 
 After signing in, you'll have access to your Smartformify dashboard.
 
-[![Smartformify Signup Page](./assets/signup.png)](./assets/signup.png)
-
 ---
 
 ## Step 2 — Create an Endpoint
@@ -122,12 +120,7 @@ After Codex finishes, save the changes and test your contact form.
 
 # 📬 View Your Visitor Messages
 
-Once your website form is connected:
-
-1. Open Smartformify
-2. Go to your dashboard
-3. Open your inbox
-4. Select a message to read it
+Once your website forms are connected to Smartformify, you will receive an email notification for every submission. You can also view and manage all responses in the Responses tab of your Smartformify dashboard.
 
 [![Smartformify Responses Dashboard](./assets/response-dashboard.png)](./assets/response-dashboard.png)
 
