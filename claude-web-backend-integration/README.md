@@ -80,7 +80,7 @@ If you would rather not edit the code yourself, open your AI assistant and use t
 
 ##### AI prompt
 
-[![Instructions for connecting with an AI assistant](./assets/ai-prompt.png)](./assets/ai-prompt.png)
+[![Instructions for connecting with an AI assistant Claude](./assets/ai-prompt.png)](./assets/ai-prompt.png)
 
 Your AI assistant can then update the form connection for you.
 
