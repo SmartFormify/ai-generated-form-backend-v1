@@ -119,7 +119,7 @@ Prompt the Bolt.new AI assistant to handle the code injection directly.
 Copy the prompt below and paste it into your Bolt.new chat session:
 
 
-[![Connect Website Form Using Codex](./assets/ai-prompt.png)](./assets/ai-prompt.png)
+[![Connect Website Form Using Bolt.new](./assets/ai-prompt.png)](./assets/ai-prompt.png)
 
 Once the AI completes the update, trigger a test submission to verify the network request.
 
