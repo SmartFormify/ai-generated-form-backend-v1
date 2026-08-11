@@ -1,4 +1,4 @@
-# Build Your Website with Bolt.new + Smartformify
+# Connect Your Bolt.new AI-Built Website Forms with SmartFormify
 
 > **A streamlined guide for integrating your AI-generated website forms with Smartformify.**
 
