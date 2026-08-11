@@ -4,7 +4,17 @@
 
 ## Overview
 
-This website was created with the help of an AI assistant, such as Claude or Codex. Its design and pages are ready, but its contact form still needs a destination for visitor messages.
+This website was created with the help of an AI assistant, such as Claude. Its design and pages are ready, but its contact form still needs a destination for visitor messages.
+
+<p align="center">
+  <a href="./assets/website.png">
+    <img src="./assets/website.png" alt="Website before connecting SmartFormify" width="47%">
+  </a>
+  &nbsp;&nbsp;
+  <a href="./assets/website-body.png">
+    <img src="./assets/website-body.png" alt="Website form before connecting SmartFormify" width="47%">
+  </a>
+</p>
 
 **Smartformify** provides that destination. Once connected, form submissions are received and stored in your Smartformify dashboard, where you can review and manage them.
 
