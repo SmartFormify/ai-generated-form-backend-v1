@@ -1,4 +1,4 @@
-# Build Your Website with Vercel v0 + Smartformify
+# Connect Your Vercel v0-Built Website Forms with SmartFormify
 
 > **A streamlined guide for integrating your AI-generated website forms with Smartformify.**
 
