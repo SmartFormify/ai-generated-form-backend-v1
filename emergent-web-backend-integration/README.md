@@ -1,8 +1,8 @@
-# Connect Your Vercel v0-Built Website Forms with SmartFormify
+# Connect Your Emergent AI-Built Website Forms with SmartFormify
 
 > **A streamlined guide for integrating your AI-generated website forms with Smartformify.**
 
-If your contact form encounters an error after generating your application with Vercel v0, the form simply lacks a designated backend endpoint to route and capture user submissions. 
+If your contact form encounters an error after generating your application with Emergent AI, the form simply lacks a designated backend endpoint to route and capture user submissions.
 
 This guide details how to pair your frontend interface with **Smartformify** to deliver reliable, centralized message management.
 
@@ -20,15 +20,15 @@ The website looks ready to use, but the form submission is not yet connected to 
 
 <p align="center">
   <a href="./assets/website.png">
-    <img src="./assets/website.png" alt="Website before connecting SmartFormify" width="47%">
+    <img src="./assets/website.png" alt="Website before connecting SmartFormify" width="33%">
   </a>
   &nbsp;&nbsp;
   <a href="./assets/website-body.png">
-    <img src="./assets/website-body.png" alt="Website form before connecting SmartFormify" width="47%">
+    <img src="./assets/website-body.png" alt="Website form before connecting SmartFormify" width="33%">
   </a>
   &nbsp;&nbsp;
   <a href="./assets/website-map.png">
-    <img src="./assets/website-body.png" alt="Website form before connecting SmartFormify" width="47%">
+    <img src="./assets/website-map.png" alt="Website map before connecting SmartFormify" width="33%">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ When a user triggers **Submit**, the application will:
 
 <p align="center">
   <a href="./assets/form-error.png">
-    <img src="./assets/form-error.png" alt="Form Submission Error" width="47%">
+    <img src="./assets/form-error.png" alt="Form Submission Error" width="50%">
   </a>
 </p>
 
@@ -68,6 +68,8 @@ Once configured:
   </a>
 </p>
 
+[![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
+
 > 💡 **Deployment Ready**
 >
 > Your form interface is fully integrated and ready to ingest live user inquiries.
@@ -84,6 +86,8 @@ Set up your Smartformify workspace to begin generating endpoints.
 
 Once authenticated, navigate to your administrator dashboard.
 
+[![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
+
 ---
 
 ## Step 2 — Provision an API Endpoint
@@ -96,9 +100,7 @@ Generate a dedicated submission target:
 4. Save the configuration
 5. Copy the generated **Endpoint URL**
 
-[![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
-
-This Endpoint URL acts as the secure webhook target for your Vercel v0 application.
+This Endpoint URL acts as the secure webhook target for your Emergent AI application.
 
 [![Smartformify Endpoint URL](./assets/endpoint-url.png)](./assets/endpoint-url.png)
 
@@ -114,7 +116,7 @@ Select your preferred deployment method below.
 
 ### Option A — Manual Codebase Integration
 
-Locate your form's `action` attribute or API submit handler in your Vercel v0 source code, replace the target destination with your **Endpoint URL**, commit the changes, and execute a test submission.
+Locate your form's `action` attribute or API submit handler in your Emergent AI-generated source code, replace the target destination with your **Endpoint URL**, commit the changes, and execute a test submission.
 
 > ✅ **Integration Complete**
 >
@@ -122,20 +124,20 @@ Locate your form's `action` attribute or API submit handler in your Vercel v0 so
 
 ---
 
-### Option B — Automated Integration via Vercel v0 AI Prompt
+### Option B — Automated Integration via Emergent AI Prompt
 
-Prompt the v0 AI assistant to handle the code update directly.
+Prompt the Emergent AI assistant to handle the code update directly.
 
-Copy the prompt below and paste it into your Vercel v0 chat interface:
+Copy the prompt below and paste it into your Emergent AI chat interface:
 
-[![Connect Website Form Using Vercel v0](./assets/ai-prompt.png)](./assets/ai-prompt.png)
+[![Connect Website Form Using Emergent AI](./assets/ai-prompt.png)](./assets/ai-prompt.png)
 
 Once the AI completes the update, trigger a test submission to verify the network request.
 
-🤖 Automated Route
+🤖 Automated Route  
 Delegating endpoint injection to the AI engine ensures quick implementation without manual code edits.
 
-📬 Response Management & Analytics
+📬 Response Management & Analytics  
 Connecting your application automatically activates instant email alerts for incoming submissions. You can review, filter, and export all captured user payloads within the Responses tab of your dashboard.
 
 New form submissions will appear automatically.
@@ -144,11 +146,11 @@ New form submissions will appear automatically.
 
 Incoming transmissions update in real time.
 
-📥 Centralized Data Engine
+📥 Centralized Data Engine  
 Manage all lead ingestions from a unified control panel.
 
-🎉 System Online!
-Your Vercel v0 project is configured for production user engagement.
+🎉 System Online!  
+Your Emergent AI project is configured for production user engagement.
 
 Execution lifecycle:
 
