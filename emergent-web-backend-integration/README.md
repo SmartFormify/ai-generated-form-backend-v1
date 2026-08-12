@@ -72,9 +72,6 @@ Once configured:
 * ✅ Data saves and organizes automatically
 * ✅ Messages are easy to track in one central dashboard
 
-
-[![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
-
 > 💡 **Deployment Ready**
 >
 > Your form interface is fully integrated and ready to ingest live user inquiries.
