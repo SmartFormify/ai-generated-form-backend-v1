@@ -13,6 +13,7 @@ Select the guide that matches the tool used to create your website:
 | Bolt.new | [bolt-new-web-backend-integration/README.md](bolt-new-web-backend-integration/README.md) |
 | Claude | [claude-web-backend-integration/README.md](claude-web-backend-integration/README.md) |
 | Codex | [codex-web-backend-integration/README.md](codex-web-backend-integration/README.md) |
+| Cursor | [cursor-web-backend-integration/README.md](cursor-web-backend-integration/README.md) |
 | Emergent | [emergent-web-backend-integration/README.md](emergent-web-backend-integration/README.md) |
 | Vercel v0 | [vercel-web-backend-integration/README.md](vercel-web-backend-integration/README.md) |
 
@@ -28,6 +29,9 @@ Select the guide that matches the tool used to create your website:
 |   `-- assets/                   # Screenshots used by the guide
 |-- codex-web-backend-integration/
 |   |-- README.md                 # Codex integration guide
+|   `-- assets/                   # Screenshots used by the guide
+|-- cursor-web-backend-integration/
+|   |-- README.md                 # Cursor integration guide
 |   `-- assets/                   # Screenshots used by the guide
 |-- emergent-web-backend-integration/
 |   |-- README.md                 # Emergent integration guide
