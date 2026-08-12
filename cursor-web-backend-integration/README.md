@@ -1,8 +1,8 @@
-# Connect Your Cursor v0-Built Website Forms with SmartFormify
+# Connect Your Cursor-Built Website Forms with SmartFormify
 
 > **A streamlined guide for integrating your AI-generated website forms with Smartformify.**
 
-If your contact form encounters an error after generating your application with Cursor v0, the form simply lacks a designated backend endpoint to route and capture user submissions. 
+If your contact form encounters an error after generating your application with Cursor, the form simply lacks a designated backend endpoint to route and capture user submissions. 
 
 This guide details how to pair your frontend interface with **Smartformify** to deliver reliable, centralized message management.
 
@@ -102,7 +102,7 @@ Generate a dedicated submission target:
 
 [![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
 
-This Endpoint URL acts as the secure webhook target for your Cursor v0 application.
+This Endpoint URL acts as the secure webhook target for your Cursor application.
 
 [![Smartformify Endpoint URL](./assets/endpoint-url.png)](./assets/endpoint-url.png)
 
@@ -118,7 +118,7 @@ Select your preferred deployment method below.
 
 ### Option A — Manual Codebase Integration
 
-Locate your form's `action` attribute or API submit handler in your Cursor v0 source code, replace the target destination with your **Endpoint URL**, commit the changes, and execute a test submission.
+Locate your form's `action` attribute or API submit handler in your Cursor source code, replace the target destination with your **Endpoint URL**, commit the changes, and execute a test submission.
 
 > ✅ **Integration Complete**
 >
@@ -126,13 +126,13 @@ Locate your form's `action` attribute or API submit handler in your Cursor v0 so
 
 ---
 
-### Option B — Automated Integration via Cursor v0 AI Prompt
+### Option B — Automated Integration via Cursor AI Prompt
 
 Prompt the v0 AI assistant to handle the code update directly.
 
-Copy the prompt below and paste it into your Cursor v0 chat interface:
+Copy the prompt below and paste it into your Cursor chat interface:
 
-[![Connect Website Form Using Cursor v0](./assets/ai-prompt.png)](./assets/ai-prompt.png)
+[![Connect Website Form Using Cursor](./assets/ai-prompt.png)](./assets/ai-prompt.png)
 
 Once the AI completes the update, trigger a test submission to verify the network request.
 
@@ -150,7 +150,7 @@ Incoming transmissions update in real time.
 Manage all lead ingestions from a unified control panel.
 
 🎉 System Online!
-Your Cursor v0 project is configured for production user engagement.
+Your Cursor project is configured for production user engagement.
 
 Execution lifecycle:
 
