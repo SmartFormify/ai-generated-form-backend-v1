@@ -20,15 +20,15 @@ The website looks ready to use, but the form submission is not yet connected to 
 
 <p align="center">
   <a href="./assets/website.png">
-    <img src="./assets/website.png" alt="Website before connecting SmartFormify" width="33%">
+    <img src="./assets/website.png" alt="Website before connecting SmartFormify" width="30%">
   </a>
   &nbsp;&nbsp;
   <a href="./assets/website-body.png">
-    <img src="./assets/website-body.png" alt="Website form before connecting SmartFormify" width="33%">
+    <img src="./assets/website-body.png" alt="Website form before connecting SmartFormify" width="30%">
   </a>
   &nbsp;&nbsp;
   <a href="./assets/website-map.png">
-    <img src="./assets/website-map.png" alt="Website map before connecting SmartFormify" width="33%">
+    <img src="./assets/website-map.png" alt="Website map before connecting SmartFormify" width="30%">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ When a user triggers **Submit**, the application will:
 
 <p align="center">
   <a href="./assets/form-error.png">
-    <img src="./assets/form-error.png" alt="Form Submission Error" width="50%">
+    <img src="./assets/form-error.png" alt="Form Submission Error" width="47%">
   </a>
 </p>
 
@@ -55,6 +55,16 @@ When a user triggers **Submit**, the application will:
 
 Linking your form actions to **Smartformify** establishes an instant, robust pipeline for capturing client responses.
 
+<p align="center">
+  <a href="./assets/form-data.png">
+    <img src="./assets/form-data.png" alt="Form Submission Data" width="47%">
+  </a>
+  &nbsp;&nbsp;
+  <a href="./assets/form-success.png">
+    <img src="./assets/form-success.png" alt="Form Submission Success" width="47%">
+  </a>
+</p>
+
 Once configured:
 
 * ✅ Submissions go through successfully
@@ -62,11 +72,6 @@ Once configured:
 * ✅ Data saves and organizes automatically
 * ✅ Messages are easy to track in one central dashboard
 
-<p align="center">
-  <a href="./assets/form-success.png">
-    <img src="./assets/form-success.png" alt="Form Submission Success" width="47%">
-  </a>
-</p>
 
 [![Smartformify Dashboard](./assets/dashboard.png)](./assets/dashboard.png)
 
