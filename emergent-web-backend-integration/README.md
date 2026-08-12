@@ -55,6 +55,13 @@ When a user triggers **Submit**, the application will:
 
 Linking your form actions to **Smartformify** establishes an instant, robust pipeline for capturing client responses.
 
+Once configured:
+
+* ✅ Submissions go through successfully
+* ✅ Form details send instantly
+* ✅ Data saves and organizes automatically
+* ✅ Messages are easy to track in one central dashboard
+
 <p align="center">
   <a href="./assets/form-data.png">
     <img src="./assets/form-data.png" alt="Form Submission Data" width="47%">
@@ -64,13 +71,6 @@ Linking your form actions to **Smartformify** establishes an instant, robust pip
     <img src="./assets/form-success.png" alt="Form Submission Success" width="47%">
   </a>
 </p>
-
-Once configured:
-
-* ✅ Submissions go through successfully
-* ✅ Form details send instantly
-* ✅ Data saves and organizes automatically
-* ✅ Messages are easy to track in one central dashboard
 
 > 💡 **Deployment Ready**
 >
