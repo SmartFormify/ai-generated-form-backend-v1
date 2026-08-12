@@ -1,4 +1,4 @@
-# Connect Your Claude AI-Built Website Forms to Smartformify
+# Form Backend for Any Website Built with Claude
 
 > Turn a contact or inquiry form into a working form in just a few minutes.
 

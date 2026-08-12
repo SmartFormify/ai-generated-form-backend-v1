@@ -1,4 +1,4 @@
-# Connect Your Emergent AI-Built Website Forms with SmartFormify
+# Form Backend for Any Website Built with Emergent
 
 > **A streamlined guide for integrating your AI-generated website forms with Smartformify.**
 

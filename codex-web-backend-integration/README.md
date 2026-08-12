@@ -1,4 +1,4 @@
-# Connect Your Codex-Built Website Forms with SmartFormify
+# Form Backend for Any Website Built with Codex
 
 > **A simple, beginner-friendly guide for connecting an AI-generated website form to Smartformify.**
 
